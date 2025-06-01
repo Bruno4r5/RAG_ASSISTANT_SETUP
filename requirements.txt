@@ -1,0 +1,9 @@
+streamlit==1.17.0       # Web framework for building the app
+PyPDF2==3.0.0           # Library for reading PDF files
+numpy==1.24.0           # Package for numerical computations
+openai==0.27.0          # OpenAI API client
+faiss-cpu==1.7.2        # Facebook AI Similarity Search library for efficient similarity searching
+scipy==1.10.1           # Library for scientific computations, including distance calculations
+tiktoken==0.2.0         # Tokenizer for OpenAI models
+PyYAML==6.0             # Library to read YAML files
+hashlib                 # Built-in library for hashing (no installation needed)
