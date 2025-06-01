@@ -1,5 +1,5 @@
 # ESG-ASSISTANT-RAG-SETUP-
-# 🌱 ESG RAG Assistant
+# RAG Assistant
 
 A Streamlit-based Retrieval-Augmented Generation (RAG) application for querying documents using LlamaIndex and OpenAI's GPT models.
 
