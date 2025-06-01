@@ -1,0 +1,3 @@
+openai_api_key: 'API KEY HERE'
+embedding_model: 'text-embedding-3-small' 
+completion_model: 'gpt-4o-mini'
